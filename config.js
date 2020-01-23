@@ -19,7 +19,9 @@ var config = {
                 zoom: 3,
                 pitch: 0,
                 bearing: 0
-            }
+            },
+            onChapterEnter: [],
+            onChapterExit: []
         },
         {
             id: '2',
