@@ -1,4 +1,4 @@
-Lunarvar config = {
+var config = {
     style: 'mapbox://styles/mzdraper/ck5rdtkn10hgq1io7p17h6lma',
     accessToken: 'pk.eyJ1IjoibXpkcmFwZXIiLCJhIjoiY2swcjVmOGUzMDFocTNjbzJmaWFpcGRoeCJ9.itsbJ9Kyqu5ENnaFaQQASw',
     showMarkers: false,
