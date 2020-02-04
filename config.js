@@ -1,10 +1,10 @@
-var config = {
+Lunarvar config = {
     style: 'mapbox://styles/mzdraper/ck5rdtkn10hgq1io7p17h6lma',
     accessToken: 'pk.eyJ1IjoibXpkcmFwZXIiLCJhIjoiY2swcjVmOGUzMDFocTNjbzJmaWFpcGRoeCJ9.itsbJ9Kyqu5ENnaFaQQASw',
     showMarkers: false,
     alignment: 'left',
     theme: 'dark',
-    title: 'Happy Chinese New Year!',
+    title: 'Happy Lunar New Year!',
     subtitle: 'A map of our China team & how they welcome the lunar new year',
     byline: '',
     footer: '',
@@ -13,7 +13,7 @@ var config = {
             id: '1',
             title: 'Mapbox China Team',
             image: 'images/china-team-party.jpeg',
-            description: 'Chinese New Year is the most important festival for Chinese people. In 2020, we will celebrate from 1/24(New Year’s Eve) to 1/30, just like Christmas, there will be a heavy migration before New Year’s Eve, it may starts one week before New Year’s Eve, people working and living in metropolitan areas like Beijing, Shanghai, Guangzhou and go back to hometown and celebrate New Year’s Eve with their big family together. There are also superstitions people follow, such as lighting firecrackers to scare away evil spirits and not bathing on the New Years Day so you don’t wash away your luck!',
+            description: 'Lunar New Year is the most important festival for Chinese people. In 2020, we will celebrate from 1/24(New Year’s Eve) to 1/30, just like Christmas, there will be a heavy migration before New Year’s Eve, it may starts one week before New Year’s Eve, people working and living in metropolitan areas like Beijing, Shanghai, Guangzhou and go back to hometown and celebrate New Year’s Eve with their big family together. There are also superstitions people follow, such as lighting firecrackers to scare away evil spirits and not bathing on the New Years Day so you don’t wash away your luck!',
             location: {
                 center: [83.526486, 43.993340],
                 zoom: 3,
@@ -27,7 +27,7 @@ var config = {
             id: '2',
             title: 'Celebrating in Beijing',
             image: '',
-            description: 'Over 3 millennia old, Beijing combines ancient and modern architecture to represent the city’s cultural significance and impact as a hub for politics, business and technology. It is now the capital of the People’s Republic of China and home to over 21 million residents. During Chinese New Year, Beijing hosts Temple Fairs where visitors welcome the new year by paying respects to ancestors and enjoy entertainment such as lion dancing and festival food.',
+            description: 'Over 3 millennia old, Beijing combines ancient and modern architecture to represent the city’s cultural significance and impact as a hub for politics, business and technology. It is now the capital of the People’s Republic of China and home to over 21 million residents. During Lunar New Year, Beijing hosts Temple Fairs where visitors welcome the new year by paying respects to ancestors and enjoy entertainment such as lion dancing and festival food.',
             location: {
                 center: [116.406923, 39.903435],
                 zoom: 6,
@@ -81,7 +81,7 @@ var config = {
             id: '4',
             title: 'Qingdao, Shandong',
             image: 'images/kevin-firecracker.jpeg',
-            description: '"We will set off firecrackers in the Chinese New Year\'s Eve to greet our ancestors to go home to celebrate Chinese New Year, which represents the beginning of the New Year. The family has a hearty dinner together. At 12 a.m middle night, we will set off firecrackers and eat dumplings again. In the evening of new year’s second day, a fourth firecracker will be set off and the ancestors will be sent away, representing the end of the Chinese New Year."',
+            description: '"We will set off firecrackers in the Lunar New Year\'s Eve to greet our ancestors to go home to celebrate Lunar New Year, which represents the beginning of the New Year. The family has a hearty dinner together. At 12 a.m middle night, we will set off firecrackers and eat dumplings again. In the evening of new year’s second day, a fourth firecracker will be set off and the ancestors will be sent away, representing the end of the Lunar New Year."',
             location: {
                 center: [120.379012, 36.084378],
                 zoom: 7,
@@ -149,7 +149,7 @@ var config = {
             id: '7',
             title: '',
             image: 'images/sarah-temple.png',
-            description: '“My family visits temple every Chinese new year. We burn incense and worship Buddha. Last year, my mom saw her colleague in the temple working as a volunteer. She said she came to work from New Year’s eve and would work there for days to accompany her son-her only son commit suicide as of mental disease. She made him a memorial tablet in temple to wish him all the best in heaven.”',
+            description: '“My family visits temple every Lunar new year. We burn incense and worship Buddha. Last year, my mom saw her colleague in the temple working as a volunteer. She said she came to work from New Year’s eve and would work there for days to accompany her son-her only son commit suicide as of mental disease. She made him a memorial tablet in temple to wish him all the best in heaven.”',
             location: {
                 center: [120.082218, 30.890794],
                 zoom: 9,
