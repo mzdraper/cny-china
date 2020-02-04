@@ -132,7 +132,7 @@ var config = {
             onChapterEnter: [],
             onChapterExit: [
               {
-                    layer: 'shanghailantern',
+                    layer: 'shanghailantern1',
                     opacity: 0
                 },
                 {
@@ -147,7 +147,7 @@ var config = {
         },
         {
             id: '7',
-            title: '',
+            title: 'Huzhou, Zhejiang',
             image: 'images/sarah-temple.png',
             description: '“My family visits temple every Lunar new year. We burn incense and worship Buddha. Last year, my mom saw her colleague in the temple working as a volunteer. She said she came to work from New Year’s eve and would work there for days to accompany her son-her only son commit suicide as of mental disease. She made him a memorial tablet in temple to wish him all the best in heaven.”',
             location: {
